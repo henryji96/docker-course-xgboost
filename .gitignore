@@ -1,1 +1,5 @@
 notebooks/*/.ipynb_checkpoints/
+
+notebooks/3. Going deeper/3.6 Handle Imbalanced Datasets.ipynb
+
+.DS_Store
